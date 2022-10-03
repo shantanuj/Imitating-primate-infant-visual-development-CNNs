@@ -1,6 +1,6 @@
 ## Model and experiments code for paper: What do CNNs gain by imitating the visual development of primate infants?
 
-- PyTorch code for paper "What do CNNs gain by imitating the visual development of primate infants" (BMVC 2020) [Paper](https://www.bmvc2020-conference.com/assets/papers/0196.pdf)
+- PyTorch code for paper "What do CNNs gain by imitating the visual development of primate infants?" (BMVC 2020; [Paper link](https://www.bmvc2020-conference.com/assets/papers/0196.pdf))
 
 - This repository primarily conmprises:
 1. Model code for "growing" models (custom variants of VGG and ResNet)
@@ -29,7 +29,7 @@ If you find this codebase or this project useful for your work, please consider 
     }
 
 ## Acknowledgement
-The codebase utilizes the [torchvision](https://github.com/pytorch/vision) libraries and built on [pytorch-cifar100](https://github.com/weiaicunzai/pytorch-cifar100) repository for CIFAR100 models.
+The codebase utilizes the [torchvision](https://github.com/pytorch/vision) libraries and builds on [pytorch-cifar100](https://github.com/weiaicunzai/pytorch-cifar100) repository for CIFAR100 model implementations.
 
 ## License
 This project's codebase is released under the MIT license. Please see the [LICENSE](LICENSE) file for more information.
