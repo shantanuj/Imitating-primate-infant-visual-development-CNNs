@@ -1,4 +1,4 @@
-## Model and experiments code for paper: What do CNNs gain by imitating the visual development of primate infants?
+## Source code for paper: What do CNNs gain by imitating the visual development of primate infants?
 
 - PyTorch code for paper "What do CNNs gain by imitating the visual development of primate infants?" (BMVC 2020; [Paper link](https://www.bmvc2020-conference.com/assets/papers/0196.pdf))
 
